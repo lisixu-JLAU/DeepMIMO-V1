@@ -5,3 +5,5 @@ This is a MATLAB code package of the DeepMIMO dataset generated using Remcom Wir
 This MATLAB code package is related to the following article:
 
 Ahmed Alkhateeb, “DeepMIMO: A Generic Deep Learning Dataset for Millimeter Wave and Massive MIMO Applications,” in Proc. of Information Theory and Applications Workshop (ITA), San Diego, CA, Feb. 2019.
+
+The download address of DeepMIMO dataset is https://deepmimo.net/versions/v1/
